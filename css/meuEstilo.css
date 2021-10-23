@@ -1,0 +1,44 @@
+/* TAGS */
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 10pt;
+    font-weight: bold;
+    color: #8B0000;
+    padding-top: 10px;
+    border-top: 1px dashed #000000;
+}
+
+/* IDS */
+#loadDiv {
+    position: relative;
+    float: right;
+    top: 0;
+    background-color: #8B0000;
+    padding: 2px 2px 2px 2px;
+    font-size: 8pt;
+    color: #FFFFFF;
+}
+
+#lastnews {
+    padding: 4px 4px 4px 4px;
+    position: relative;
+    width: 192px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: #BEBEBE;
+}
+
+/* CLASSES */
+.corpo {
+    font-size: 8pt;
+    font-family: Verdana, Georgia;
+}
